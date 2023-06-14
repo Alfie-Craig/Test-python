@@ -1,7 +1,7 @@
 print('Begin Quiz')
-questions = ['is 2+2 = 4?', 'is 1+1=3', 'is 4+6 = 10']
+questions = ['is 2+2 = 4?', 'is 1+1=3', 'is 4+6 = 10' , 'is 95*144 = 13680 ']
 
-answers = ['yes','no','yes']
+answers = ['yes','no','yes' , 'yes']
 
 
 
